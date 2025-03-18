@@ -1,6 +1,4 @@
-==============================
-|        PLEASE READ!!       |
-==============================
+PLEASE READ!!
 
 The sprites, backgrounds, music/sound effects, and other assets do NOT belong to me. I just make visual novels for free, so that everyone can enjoy them! ;)
 
